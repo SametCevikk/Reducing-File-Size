@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646638745 source:c:\users\samet\desktop\dosya sýkýþtýrma\dosyasikistirma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
